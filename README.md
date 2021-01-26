@@ -1,0 +1,2 @@
+# MvcProductStoreOnKube
+POC
